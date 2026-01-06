@@ -1,4 +1,4 @@
-Overview
+**Overview**
 
 This project implements a Thread Pool Scheduler in C using POSIX threads (pthreads).
 A thread pool manages a fixed number of worker threads that execute tasks from a shared queue, improving performance by avoiding frequent thread creation and destruction.
@@ -13,7 +13,7 @@ This scheduler is useful for:
 
 4. Resource-efficient multithreading
 
-Features
+**Features**
 
 1. Fixed-size thread pool
 
